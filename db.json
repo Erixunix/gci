@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "password"
+    }
+  ],
+  "clientes": [
+    {
+      "id": "e360",
+      "nombre": "Eric Felipe ",
+      "apellidos": "Barrera lopez",
+      "curp": "BALE020421HTLPRA7",
+      "telefono": "2471011018",
+      "direccion": "Insurgentes poniente",
+      "observacion": ""
+    }
+  ],
+  "lotificaciones": [],
+  "cobros": []
+}
